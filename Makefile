@@ -12,6 +12,3 @@ bundle:
 	poetry bundle venv poeticemrbundle --without dev
 	tar -czvf poeticemrbundle.tar.gz -C $(shell pwd)/poeticemrbundle .
 	rm -rf poeticemrbundle
-
-pww:
-	pwd
