@@ -17,6 +17,6 @@ you must use python 3.7.10 and amazon linux 2 for this to work with emr 6.9 .
 see `./Makefile` for implementation details
 
 
-Run as if you'd use venv-pack. 
-entrypoint.py - main entrypoint file
-poeticemrbundle.tar.gz - upload to s3 and use as if it was created via venv-pack
+Run as if you'd use venv-pack.  
+entrypoint.py - main entrypoint file   
+poeticemrbundle.tar.gz - upload to s3 and use as if it was created via venv-pack   
